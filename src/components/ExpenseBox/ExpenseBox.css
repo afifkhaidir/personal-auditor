@@ -1,0 +1,25 @@
+.expense-box {
+    background: #FFF;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2);
+    color: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    margin-bottom: 15px;
+}
+.expense-name {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.expense-name__text {
+    font-size: 18px;
+    font-weight: 600;
+}
+.expense-detail {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.expense-detail__amount {
+    float: left;
+}
+.expense-detail__date {
+    float: right;
+}
