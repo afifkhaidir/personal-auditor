@@ -1,4 +1,4 @@
-##This is a Personal Auditor React App##
+## This is a Personal Auditor React App
 
 Requirements:
 - <a href="https://github.com/afifkhaidir/personal-auditor-api">Node API</a>
