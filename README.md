@@ -1,6 +1,6 @@
 ## This is a Personal Auditor React App
 
-Requirements:
+Requirement:
 - <a href="https://github.com/afifkhaidir/personal-auditor-api">Node API</a>
 
 Follow this step
